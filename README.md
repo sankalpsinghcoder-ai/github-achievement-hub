@@ -9,3 +9,10 @@ A small repo created while learning git and github collab
 - git commit
 - git push
 - git pull
+
+
+## about git
+
+- it's for storing code
+- it helps in maintaining code
+- helps in collab with other coders/authors
