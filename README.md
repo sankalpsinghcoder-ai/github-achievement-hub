@@ -16,3 +16,8 @@ A small repo created while learning git and github collab
 - it's for storing code
 - it helps in maintaining code
 - helps in collab with other coders/authors
+
+## Contributors
+
+- Sankalp
+- Rahul
