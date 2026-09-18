@@ -12,22 +12,22 @@
   <table>
     <tr>
       <td align="center" width="130">
-        <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" alt="Pull Shark" /><br />
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="80" alt="Pull Shark" /><br />
         <b>Pull Shark</b><br />
         <sub>Merged Pull Requests</sub>
       </td>
       <td align="center" width="130">
-        <img src="https://github.githubassets.com/assets/yolo-default-40101b0a8813.png" width="80" alt="YOLO" /><br />
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="80" alt="YOLO" /><br />
         <b>YOLO</b><br />
         <sub>Merged without Review</sub>
       </td>
       <td align="center" width="130">
-        <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-e73007328590.png" width="80" alt="Pair Extraordinaire" /><br />
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="80" alt="Pair Extraordinaire" /><br />
         <b>Pair Extraordinaire</b><br />
         <sub>Co-authored Commits</sub>
       </td>
       <td align="center" width="130">
-        <img src="https://github.githubassets.com/assets/quickdraw-default-1910a340b127.png" width="80" alt="Quickdraw" /><br />
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="80" alt="Quickdraw" /><br />
         <b>Quickdraw</b><br />
         <sub>Closed Issue/PR Quickly</sub>
       </td>
