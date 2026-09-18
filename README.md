@@ -40,7 +40,6 @@
 <h2 align="center">Profile Statistics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sankalpsinghcoder-ai&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankalpsinghcoder-ai&theme=radical" alt="GitHub Streak" width="48%" />
 </div>
 
